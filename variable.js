@@ -8,4 +8,8 @@ var strType = `i am web developer`
 
 // this is number type variable
 var numType = 30;
-console.log(typeof numType);
+// console.log(typeof numType);
+
+// this is boolean type variable
+var boolType = false;
+console.log(typeof boolType);
